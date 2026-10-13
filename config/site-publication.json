@@ -1513,10 +1513,10 @@
     "assets/converted/ad947924-17a7-4da2-8426-7cb75d24cf61/source-lod-98.radc",
     "assets/converted/ad947924-17a7-4da2-8426-7cb75d24cf61/source-lod-99.radc",
     "assets/converted/ad947924-17a7-4da2-8426-7cb75d24cf61/source-lod.rad",
-    "assets/navigation.worker-CkSq4izy.js",
-    "assets/ui-Bn-fpNJ9.js",
+    "assets/navigation.worker-BeDNdbYX.js",
     "assets/ui-DOcYhYNM.css",
-    "assets/viewer-C6MV4F_g.js",
+    "assets/ui-DuZQV6RI.js",
+    "assets/viewer-B4DVaNek.js",
     "config/hosting.json",
     "config/site-publication.json",
     "config/tour.json",
@@ -1992,8 +1992,8 @@
   ],
   "source": {
     "commit": "961638f141e6dfb81817f223cf47cd1f47829591",
-    "modified": false,
-    "snapshot": "995594cd0389d3715051cfe05b610d127bd872fc31ac1c9a44fed9d9899850fe"
+    "modified": true,
+    "snapshot": "fce0f841346b479f288faa191d09f9a667a1ceb0979bc3316af9f4dcc05842a6"
   },
-  "appVersion": "1.14.0"
+  "appVersion": "1.17.0"
 }
