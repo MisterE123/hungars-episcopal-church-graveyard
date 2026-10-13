@@ -1,0 +1,12 @@
+# Local launcher and editor state
+*.exe
+*.zip
+.sources.json*
+autosave.json*
+.spark-tour-*.json*
+collision-logs/
+conversion-logs/
+*.log
+.env*
+*.pem
+*.key
