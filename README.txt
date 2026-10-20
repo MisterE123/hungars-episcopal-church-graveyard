@@ -6,7 +6,7 @@ Local network / Quest: in the launcher control tab, choose Share on this network
 
 Hosting: upload this folder to a static HTTPS host (the EXE is only for local Windows viewing). Preserve subdirectories. Serve .rad with HTTP Range / 206 responses. Configure CORS on a remote asset host.
 
-Edit config/hosting.json to change assetBaseUrl (relative or HTTPS, ending with /) or sceneUrls overrides. These settings affect splats, not the application.
+Edit config/hosting.json to change assetBaseUrl (relative or HTTPS, ending with /) or sceneUrls overrides. These settings affect splats, not the application. Set collisionBaseUrl separately to host .collision.json and its tiles on a CDN; preserve paths inside the collider folder.
 
 Reopen this folder in Spark Tour Studio to edit the tour. Runtime code is bundled locally. External links/custom pages may still depend on online services.
 

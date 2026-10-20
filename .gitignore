@@ -4,6 +4,7 @@
 .sources.json*
 autosave.json*
 .spark-tour-*.json*
+.spark-tour-diagnostics/
 collision-logs/
 conversion-logs/
 *.log
