@@ -1808,11 +1808,12 @@
     "assets/converted/ad947924-17a7-4da2-8426-7cb75d24cf61/source-lod-98.radc",
     "assets/converted/ad947924-17a7-4da2-8426-7cb75d24cf61/source-lod-99.radc",
     "assets/converted/ad947924-17a7-4da2-8426-7cb75d24cf61/source-lod.rad",
-    "assets/navigation.worker-DK5YsPwG.js",
+    "assets/navigation.worker-CcTyS6Yv.js",
     "assets/paged-physics.worker-DYxyguzu.js",
-    "assets/ui-D4_04Mue.css",
-    "assets/ui-yqrH67g6.js",
-    "assets/viewer-D3kmp_Bm.js",
+    "assets/ui-BmJFK2hr.js",
+    "assets/ui-Cexjl07C.css",
+    "assets/viewer-DhsH_oLp.css",
+    "assets/viewer-dNaw5dwb.js",
     "colliders/09cfb1a2-2149-483a-876c-c118d84c797b/nav/-1_-1.bin",
     "colliders/09cfb1a2-2149-483a-876c-c118d84c797b/nav/-1_-2.bin",
     "colliders/09cfb1a2-2149-483a-876c-c118d84c797b/nav/-1_0.bin",
@@ -6792,9 +6793,9 @@
     "performance/light.performance.json"
   ],
   "source": {
-    "commit": "961638f141e6dfb81817f223cf47cd1f47829591",
-    "modified": true,
-    "snapshot": "8932fc984211ebb941564eb197f6a4b3c75aae5fe8423ad7c44fbad8c72c0c34"
+    "commit": "14dd96cc428d436080bc2fc3b388c5b43ea512dd",
+    "modified": false,
+    "snapshot": "ac6b6dad6e2df95497541317c5734e727ff3bfefe2fb9a043b01f874b3ec99aa"
   },
-  "appVersion": "1.20.2"
+  "appVersion": "1.21.2"
 }

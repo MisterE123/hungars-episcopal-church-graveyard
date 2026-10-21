@@ -107,6 +107,11 @@
   "startScene": "8ca6e963-7e3f-4cc2-939c-919ecf285923",
   "scenes": [
     {
+      "bubbles": {
+        "sizeMultiplier": 4,
+        "fadeDistance": null,
+        "occlusion": false
+      },
       "speedMultiplier": 4,
       "vrScale": 0.25,
       "collisionAuthoring": {
@@ -152,7 +157,7 @@
         "bottomColor": "#0b151d"
       },
       "id": "8ca6e963-7e3f-4cc2-939c-919ecf285923",
-      "name": "HungarsAerial",
+      "name": "Hungars Aerial",
       "source": "assets/converted/8d202fe8-3658-4be3-b8e0-712a3d17bbdb/source-lod.rad",
       "thumbnail": "",
       "transform": {
@@ -253,7 +258,83 @@
           ]
         }
       ],
-      "hotspots": []
+      "hotspots": [
+        {
+          "createdAt": 1792500054429,
+          "size": 0,
+          "id": "6c7d94f1-e79b-4e0c-8062-599dd486b6a5",
+          "label": "New bubble",
+          "position": [
+            -8.911275553437516,
+            -27.626186775855096,
+            -19.857108949310806
+          ],
+          "kind": "scene",
+          "target": "49d0a79f-9714-41b4-83f4-e99095220b71"
+        },
+        {
+          "createdAt": 1792541572832,
+          "size": 0,
+          "id": "8576c167-25e7-406e-9163-b42e1fd8b87f",
+          "label": "New bubble",
+          "position": [
+            -1.9225861318647794,
+            -12.41408021833821,
+            -19.857108949310806
+          ],
+          "kind": "scene",
+          "target": "47eb41bc-d4db-48c1-af58-f4b7e264b11d"
+        },
+        {
+          "createdAt": 1792541594338,
+          "size": 0,
+          "id": "3822b3df-bcb2-45ee-8b63-63c41708d224",
+          "label": "New bubble",
+          "position": [
+            6.48424638194683,
+            -27.924199278795793,
+            -19.857108949310806
+          ],
+          "kind": "scene",
+          "target": "dbdb1d17-ce5e-4988-a838-df9e99b42e38"
+        },
+        {
+          "createdAt": 1792541647686,
+          "id": "066a82aa-2a4c-479b-9dbc-cc6716ea390b",
+          "label": "New bubble",
+          "position": [
+            13.096532488536731,
+            -0.3383179596515201,
+            -19.363068745010693
+          ],
+          "kind": "scene",
+          "target": "47eb41bc-d4db-48c1-af58-f4b7e264b11d"
+        },
+        {
+          "createdAt": 1792541676802,
+          "id": "65e63b37-5fb5-4dfe-99e0-ddca549bddf1",
+          "label": "New bubble",
+          "position": [
+            23.282530989150953,
+            -0.3383179596515201,
+            -19.363068745010693
+          ],
+          "kind": "scene",
+          "target": "78d4ec0f-7bc0-4e38-9ef9-c3aa79f432ab"
+        },
+        {
+          "createdAt": 1792541805951,
+          "id": "cb3745cb-34fd-4efd-ac84-927ad691e09a",
+          "label": "New bubble",
+          "position": [
+            12.803356044855974,
+            26.453373236764623,
+            -19.363068745010697
+          ],
+          "kind": "scene",
+          "target": "2bda40a6-e114-4ee2-886d-44cc1999b77d"
+        }
+      ]
     },
     {
       "collisionAuthoring": {
